@@ -4,6 +4,7 @@
 - [x] NativeScript/TypeScript/Angular 2
 - [x] Couchbase
 - [x] Using Google URL shortener API POST request
+- [x] RxJS Observables
 
 
 **To Initialize Project**
