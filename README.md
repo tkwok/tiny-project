@@ -1,9 +1,9 @@
 # tiny-project
 
 ## Google URL shortener ios/Android App
-###### NativeScript/TypeScript/Angular 2
-###### Couchbase
-###### Using Google URL shortener API POST request
+- [x] NativeScript/TypeScript/Angular 2
+- [x] Couchbase
+- [x] Using Google URL shortener API POST request
 
 
 ** To initialize project **
