@@ -1,5 +1,0 @@
-demo/
-ng-demo/
-dist/
-*.ts
-!*.d.ts

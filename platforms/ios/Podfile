@@ -1,8 +1,0 @@
-use_frameworks!
-
-target "TinyProject" do
-# Begin Podfile - /Users/tk/GitHub/TinyProject/node_modules/nativescript-toast/platforms/ios/Podfile 
- pod 'Toaster', '~> 2.0.1' 
- # End Podfile 
-
-end
