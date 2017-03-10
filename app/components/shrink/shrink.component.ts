@@ -11,7 +11,7 @@ import * as Toast from "nativescript-toast";
 })
 export class ShrinkComponent {
 	public longUrl: string;
-	private googleApiKey: string = "AIzaSyBtP0VgvlxWu4wXflWfuRZwWhblVQpBLks";
+	private googleApiKey: string = "";
 
 	public constructor(private http: Http, 
 		private location: Location, 
