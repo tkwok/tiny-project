@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-recyclerview-v7-23.4.0_2f3b89e9b84ba16458deea7f68fa52445da1b3ac.jar" />
+    </item>
+    <item
+        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/support-annotations-23.4.0_cff744a20a183c3ee3bde7040286b1eb5bb3626e.jar" />
+    </item>
+    <item
+        jar="/Users/tk/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/okio-1.8.0_ab7bbd9b42f442f77594f08e4d0bfd95f4f97339.jar" />
+    </item>
+    <item
+        jar="/Users/tk/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.5.0/489b7552dd3322b63f694122d16ce62c21c303b5/jackson-databind-2.5.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="489b7552dd3322b63f694122d16ce62c21c303b5">
+        <dex dex="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/jackson-databind-2.5.0_812c395a24b4b14773763f3ee5195140ff21c909.jar" />
+    </item>
+    <item
+        jar="/Users/tk/.gradle/caches/modules-2/files-2.1/com.couchbase.lite/couchbase-lite-java-core/1.3.1/3807f8d70802e9bee03617bc9d0b1a0bbbdab656/couchbase-lite-java-core-1.3.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="3807f8d70802e9bee03617bc9d0b1a0bbbdab656">
+        <dex dex="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/couchbase-lite-java-core-1.3.1_393b06500766e32721d676a562a02141884a98c6.jar" />
+    </item>
+    <item
+        jar="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-vector-drawable-23.4.0_2ee22e197567d8297304c1cfc60e1a836011bf4c.jar" />
+    </item>
+    <item
+        jar="/Users/tk/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/gson-2.6.2_ff6be428dc919cae7b232bb6131b5db1cd8d4598.jar" />
+    </item>
+    <item
+        jar="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-design-23.4.0_feca56de6bf09b1b075f888b31179fd5be9128c3.jar" />
+    </item>
+    <item
+        jar="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-animated-vector-drawable-23.4.0_c3f68a4aefa9be681afddc57bca3770354f67fbd.jar" />
+    </item>
+    <item
+        jar="/Users/tk/.gradle/caches/modules-2/files-2.1/com.github.oxo42/stateless4j/2.4.0/128aca4ace585f0b42faa739d0b968a154debb7a/stateless4j-2.4.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="128aca4ace585f0b42faa739d0b968a154debb7a">
+        <dex dex="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/stateless4j-2.4.0_4bef902f2617a1574ad2c40cbb1dda9e3ced272d.jar" />
+    </item>
+    <item
+        jar="/Users/tk/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.1/19047bdb6a4fc00a44124f64ca98e88fc204e7e3/okhttp-3.3.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/okhttp-3.3.1_fb0fb803062d5599b6e766e8f159483dc1c71526.jar" />
+    </item>
+    <item
+        jar="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
+        <dex dex="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-widgets-release_4f6a1e798f32ad0dc35c6e9182313a624b4a9d3b.jar" />
+    </item>
+    <item
+        jar="/Users/tk/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.5.0/b2ece1bd57ac7b4c315b7505b65ac79cb1da4270/jackson-core-2.5.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="b2ece1bd57ac7b4c315b7505b65ac79cb1da4270">
+        <dex dex="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/jackson-core-2.5.0_41300b873063fa451a6da502308cae0f11e5a7b0.jar" />
+    </item>
+    <item
+        jar="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/internal_impl-23.4.0_197a0dff6748c2032a2f4a47d9169ac751542873.jar" />
+    </item>
+    <item
+        jar="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/exploded-aar/TinyProject/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/binding-generator_b4f1f5e51c0f892e199f676160870966d1e0ac0f.jar" />
+    </item>
+    <item
+        jar="/Users/tk/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.5.0/a2a55a3375bc1cef830ca426d68d2ea22961190e/jackson-annotations-2.5.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="a2a55a3375bc1cef830ca426d68d2ea22961190e">
+        <dex dex="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/jackson-annotations-2.5.0_a546eaae9a6a4bddf92b50dc937a4fca6836f9c4.jar" />
+    </item>
+    <item
+        jar="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/exploded-aar/TinyProject/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="632bf39700c28ba66c117628dab343126ef89551">
+        <dex dex="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/TinyProject-runtime-unspecified_e80579c7604474b4c6a6c20ba0402c3459370e99.jar" />
+    </item>
+    <item
+        jar="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/exploded-aar/com.couchbase.lite/couchbase-lite-android-sqlite-custom/1.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c82bc8adb671652b83ea2d785d0847435e4f3442">
+        <dex dex="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.couchbase.lite-couchbase-lite-android-sqlite-custom-1.3.1_2f135d238a0d105388334cf105523b3e8b582dcd.jar" />
+    </item>
+    <item
+        jar="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/exploded-aar/com.couchbase.lite/couchbase-lite-android/1.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="2ce3006140ca3087f08a9f0ba1211255253474c5">
+        <dex dex="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.couchbase.lite-couchbase-lite-android-1.3.1_acc69bc943db33d1d81c1aa4104ef9bfecf50a73.jar" />
+    </item>
+    <item
+        jar="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-v4-23.4.0_d3362a52a53113697f98654165d16f31040705e3.jar" />
+    </item>
+    <item
+        jar="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/tk/GitHub/TinyProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-appcompat-v7-23.4.0_921c7668c58b89b14bd5241b319ce91cef8015c1.jar" />
+    </item>
+
+</items>

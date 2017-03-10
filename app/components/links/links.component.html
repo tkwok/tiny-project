@@ -1,0 +1,13 @@
+<ActionBar title="Google Shorten URL List">
+	<ActionItem text="New" ios.position="right" (tap)="createShrunkenUrl()"></ActionItem>
+</ActionBar>
+<GridLayout>
+	<ListView [items]="urls" class="list-group">
+		<Template let-url="item">
+			<StackLayout class="list-group-item" (tap)="launchUrl(url.short)">
+				<Label [text]="url.short" class="h2"></Label>
+				<Label text="{{ url.long }}"></Label>
+			</StackLayout>
+		</Template>
+	</ListView>
+</GridLayout>
