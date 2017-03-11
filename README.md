@@ -6,6 +6,7 @@
 - [x] Using Google URL shortener API POST request
 - [x] RxJS Observables
 
+**Be sure to sign up for a Google API Key and have Google ShortURL API enabled on the account**
 
 **To Initialize Project**
 ```
