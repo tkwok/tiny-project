@@ -4,6 +4,7 @@ import "rxjs/Rx";
 import { Location } from "@angular/common";
 import { Database } from "../../providers/database/database";
 import * as Toast from "nativescript-toast";
+import { Constants } from "../../providers/common/constants";
 
 @Component({
 	selector: "shrink",
@@ -11,11 +12,11 @@ import * as Toast from "nativescript-toast";
 })
 export class ShrinkComponent {
 	public longUrl: string;
-	private googleApiKey: string = "";
 
 	public constructor(private http: Http, 
 		private location: Location, 
-		private database: Database) {
+		private database: Database,
+		private constants: Constants) {
 
 		this.longUrl = "";
 	}
@@ -25,7 +26,7 @@ export class ShrinkComponent {
 			let headers = new Headers({"Content-Type": "application/json"});
 			let options = new RequestOptions({ headers: headers});
 
-			this.http.post("https://www.googleapis.com/urlshortener/v1/url?key=" + this.googleApiKey, JSON.stringify({longUrl: this.longUrl}), options)
+			this.http.post("https://www.googleapis.com/urlshortener/v1/url?key=" + this.constants.GOOGLE_API_KEY, JSON.stringify({longUrl: this.longUrl}), options)
 				.map(result => result.json())
 				.do(result => console.log("Result: ", JSON.stringify(result)))
 				.subscribe(result => {

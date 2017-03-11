@@ -7,6 +7,7 @@ import { AppComponent } from "./app.component";
 import { NgModule } from "@angular/core";
 import { AppComponents, AppRoutes } from "./app.routing";
 import { Database } from "./providers/database/database";
+import { Constants } from "./providers/common/constants"
 
 @NgModule({
 	declarations: [AppComponent, ...AppComponents],
@@ -18,7 +19,7 @@ import { Database } from "./providers/database/database";
 		NativeScriptRouterModule,
 		NativeScriptRouterModule.forRoot(AppRoutes)
 	],
-	providers: [Database]
+	providers: [Database, Constants]
 })
 
 class AppComponentModule {}
