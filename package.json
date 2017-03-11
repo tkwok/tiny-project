@@ -25,6 +25,7 @@
     "nativescript-couchbase": "^1.0.17",
     "nativescript-theme-core": "~1.0.2",
     "nativescript-toast": "^1.4.5",
+    "nativescript-unit-test-runner": "^0.3.4",
     "reflect-metadata": "~0.1.8",
     "rxjs": "~5.0.1",
     "tns-core-modules": "2.5.1"
@@ -33,6 +34,9 @@
     "babel-traverse": "6.23.1",
     "babel-types": "6.23.0",
     "babylon": "6.16.1",
+    "karma": "^1.5.0",
+    "karma-jasmine": "^1.1.0",
+    "karma-nativescript-launcher": "^0.4.0",
     "lazy": "1.0.11",
     "nativescript-dev-android-snapshot": "^0.*.*",
     "nativescript-dev-typescript": "~0.3.5",
