@@ -1,30 +1,31 @@
 # tiny-project
 
-## Google URL shortener ios/Android App
+## Google URL shortener iOS/Android App
 - [x] NativeScript/TypeScript/Angular 2
 - [x] Couchbase
 - [x] Using Google URL shortener API POST request
+- [x] RxJS Observables
 
 
-** To initialize project **
+**To Initialize Project**
 ```
 tns install
 tns plugin add nativescript-couchbase (app uses Couchbase)
 ```
 
-** To setup platforms **
+**To Setup Platforms**
 ```
 tns platform add ios
 tns platform add android
 ```
 
-** To run project in emulator **
+**To Run Project In Emulator**
 ```
 tns run ios
 tns run android
 ```
 
-** To build project (each time new plugin added require build before run) **
+**To Build Project (Each Time New Plugin Added Require Build Before Run**
 ```
 tns build ios
 tns build android
