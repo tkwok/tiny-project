@@ -10,7 +10,27 @@
 - Continual development (better UI, more secure REST)
 - Serve as base project for future projects
 
-**Be sure to sign up for a Google API Key and have Google ShortURL API enabled on the account**
+**Requirements Before Building**
+- Fork this project (of course)
+- Latest NodeJS installed
+- Latest NativeScript/tns CLI installed
+- Create constants.ts in app/providers/common folder. Use this template:
+```
+import { Injectable } from "@angular/core";
+
+@Injectable()
+export class Constants {
+	public GOOGLE_API_KEY: string;
+
+	constructor() {
+		this.GOOGLE_API_KEY = "YOUR GOOGLE API KEY HERE"
+	}
+}
+```
+- Add Couchbase by 
+``` 
+  tns plugin install nativescriot-couchbase
+```
 
 **To Initialize Project**
 ```
